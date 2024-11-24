@@ -1,0 +1,54 @@
+state,polling_avg_current,polling_avg_2020,polling_avg_2016,result_2020,result_2016,inflation_current,unemployment_current,inflation_2020,unemployment_2020,inflation_2016,unemployment_2016
+Alabama,-18.03,-15.36,Trump,Trump,1.4,8.1,1.3,5.0,1.3,6.1
+Alaska,-17.98,-12.68,Trump,Trump,1.4,8.1,1.3,5.0,1.6,6.6
+Arizona,-2.88,-4.66,Trump,Trump,1.4,8.1,1.3,5.0,1.3,5.0
+Arkansas,-21.36,-19.5,Trump,Trump,1.4,8.1,1.3,5.0,1.3,6.1
+California,17.33,15.84,Biden,Clinton,1.4,8.1,1.3,5.0,1.3,5.0
+Colorado,0.92,0.14,Biden,Clinton,1.4,8.1,1.3,5.0,1.3,5.0
+Connecticut,22.66,11.3,Biden,Clinton,1.4,8.1,1.3,5.0,1.3,5.0
+Delaware,23.68,11.95,Biden,Clinton,1.4,8.1,1.3,5.0,1.3,5.0
+Florida,4.09,-4.66,Trump,Trump,1.4,8.1,1.3,5.0,1.3,5.0
+Georgia,0.47,0.2,Trump,Trump,1.4,8.1,1.3,5.0,1.3,5.0
+Hawaii,27.9,28.79,Biden,Clinton,1.4,8.1,1.3,5.0,1.3,5.0
+Idaho,-29.1,-26.08,Trump,Trump,1.4,8.1,1.3,5.0,1.3,5.0
+Illinois,17.14,26.57,Biden,Clinton,1.4,8.1,1.3,5.0,1.3,5.0
+Indiana,-28.51,-13.96,Trump,Trump,1.4,8.1,1.3,5.0,1.3,5.0
+Iowa,3.15,-4.94,Trump,Trump,1.4,8.1,1.3,5.0,1.3,5.0
+Kansas,-22.83,-28.52,Trump,Trump,1.4,8.1,1.3,5.0,1.3,5.0
+Kentucky,-28.73,-23.38,Trump,Trump,1.4,8.1,1.3,5.0,1.3,5.0
+Louisiana,-12.26,-17.25,Trump,Trump,1.4,8.1,1.3,5.0,1.3,5.0
+Maine,0.61,2.61,Biden,Clinton,1.4,8.1,1.3,5.0,1.3,5.0
+Maryland,10.51,18.55,Biden,Clinton,1.4,8.1,1.3,5.0,1.3,5.0
+Massachusetts,20.17,16.29,Biden,Clinton,1.4,8.1,1.3,5.0,1.3,5.0
+Michigan,-2.71,2.56,Trump,Trump,1.4,8.1,1.3,5.0,1.3,5.0
+Minnesota,3.08,4.3,Biden,Clinton,1.4,8.1,1.3,5.0,1.3,5.0
+Mississippi,-12.15,-26.27,Trump,Trump,1.4,8.1,1.3,5.0,1.3,5.0
+Missouri,-27.8,-23.64,Trump,Trump,1.4,8.1,1.3,5.0,1.3,5.0
+Montana,-29.86,-12.79,Trump,Trump,1.4,8.1,1.3,5.0,1.3,5.0
+Nebraska,-23.25,-27.6,Trump,Trump,1.4,8.1,1.3,5.0,1.3,5.0
+Nevada,-1.36,2.03,Biden,Clinton,1.4,8.1,1.3,5.0,1.3,5.0
+New Hampshire,-1.99,-0.03,Biden,Clinton,1.4,8.1,1.3,5.0,1.3,5.0
+New Jersey,11.03,20.05,Biden,Clinton,1.4,8.1,1.3,5.0,1.3,5.0
+New Mexico,-0.11,-3.55,Biden,Clinton,1.4,8.1,1.3,5.0,1.3,5.0
+New York,14.75,25.23,Biden,Clinton,1.4,8.1,1.3,5.0,1.3,5.0
+North Carolina,0.36,1.34,Trump,Trump,1.4,8.1,1.3,5.0,1.3,5.0
+North Dakota,-29.18,-26.27,Trump,Trump,1.4,8.1,1.3,5.0,1.3,5.0
+Ohio,-2.74,0.12,Trump,Trump,1.4,8.1,1.3,5.0,1.3,5.0
+Oklahoma,-11.27,-22.27,Trump,Trump,1.4,8.1,1.3,5.0,1.3,5.0
+Oregon,27.55,28.49,Biden,Clinton,1.4,8.1,1.3,5.0,1.3,
+state,polling_avg_current,polling_avg_2020,polling_avg_2016,result_2020,result_2016,inflation_current,unemployment_current,inflation_2020,unemployment_2020,inflation_2016,unemployment_2016
+Pennsylvania,1.6,3.17,0.55,0.3,-2.58,3.2,6.5,1.8,7.0,1.5,8.0
+Rhode Island,11.86,27.94,28.01,22.66,16.78,3.2,6.5,1.8,7.0,1.5,8.0
+South Carolina,-23.02,-15.48,-12.06,-12.26,-14.4,3.2,6.5,1.8,7.0,1.5,8.0
+South Dakota,-17.16,-28.32,-26.77,-12.03,-17.87,3.2,6.5,1.8,7.0,1.5,8.0
+Tennessee,-29.82,-27.97,-16.73,-29.9,-26.78,3.2,6.5,1.8,7.0,1.5,8.0
+Texas,-19.03,-16.16,-16.96,-25.51,-15.76,3.2,6.5,1.8,7.0,1.5,8.0
+Utah,-25.26,-23.49,-15.07,-17.01,-13.02,3.2,6.5,1.8,7.0,1.5,8.0
+Vermont,23.15,21.37,11.87,17.35,15.3,3.2,6.5,1.8,7.0,1.5,8.0
+Virginia,-2.56,4.73,-1.07,3.92,1.31,3.2,6.5,1.8,7.0,1.5,8.0
+Washington,25.9,20.05,21.54,19.85,13.9,3.2,6.5,1.8,7.0,1.5,8.0
+West Virginia,-15.55,-24.38,-29.51,-17.09,-26.46,3.2,6.5,1.8,7.0,1.5,8.0
+Wisconsin,4.4,4.54,4.15,-1.3,-4.85,3.2,6.5,1.8,7.0,1.5,8.0
+Wyoming,-11.43,-21.44,-10.67,-10.73,-12.94,3.2,6.5,1.8,7.0,1.5,8.0
+National,-2.06,-1.15,3.51,-1.83,-3.31,3.2,6.5,1.8,7.0,1.5,8.0
+Washington D.C.,21.14,28.72,23.92,21.4,11.94,3.2,6.5,1.8,7.0,1.5,8.0
