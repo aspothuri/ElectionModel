@@ -3,7 +3,7 @@ import geopandas as gpd
 import matplotlib.pyplot as plt
 from model import predict
 
-# Load the prediction data
+# Load the data
 predictions = predict()
 print(predictions)
 us_states = gpd.read_file('us_states.geojson')
@@ -29,7 +29,6 @@ def categorize_margin(margin):
     else:
         return 'tilt blue' if margin > 0 else 'tilt red'
 
-# Calculate the margin and categorize each state
 us_states['margin'] = us_states['prediction_2024']
 us_states['category'] = us_states['margin'].apply(categorize_margin)
 
